@@ -1,4 +1,4 @@
-# monosoft
+# ONEID
 
 Login: Foydalanuvchi id.egov.uz orqali autentifikatsiya qilinadi va avtorizatsiya kodi olinadi.
 Access token olish: Authorization code yordamida access token olinadi.
